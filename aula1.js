@@ -1,3 +1,5 @@
+/* DESAFIO 1 DO #7DAYSOFCODE */ 
+
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
